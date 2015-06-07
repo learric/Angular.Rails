@@ -1,10 +1,12 @@
 # Angular.Rails -> Ready.App
 
 
-**Barebones Rails application with AngularJS built into the Asset Pipeline**
+Barebones Rails application with AngularJS built into the Asset Pipeline
 
 
-**   **
+   
+
+
 ***
 
 ### Currently only one way to get started
