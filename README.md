@@ -1,4 +1,4 @@
-# Angular.Rails -> Ready.App
+# Ready.Apps > Angular.Rails
 
 
 Barebones Rails application with AngularJS built into the Asset Pipeline
