@@ -3,13 +3,6 @@
 
 Barebones Rails application with AngularJS built into the Asset Pipeline
 
-    
-
-    
-
-    
-
-***
 
 ### Currently only one way to get started
 
@@ -25,7 +18,7 @@ rails s
 ```
 
 
-Then open a web browser to [http://localhost:3000/](http://localhost:3000/). If there is a form field inside of a green box, begin entering your name. If 'Hello, **YOUR-NAME**' appears in green, _CONGRATS!_
+Then open a web browser to [http://localhost:3000/](http://localhost:3000/). If there is a form field inside of a green box, begin entering your name. If '_Hello, **YOUR-NAME**_' appears in green, everything downloaded correctly.
 
 
 Next, open
