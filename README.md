@@ -1,28 +1,14 @@
-== README
+# Rails + Angular Ready.App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Barebones _Rails_ application with _AngularJS_ built into the _Asset Pipeline_**
 
-Things you may want to cover:
+### Currently only one way to get started
 
-* Ruby version
+<tt>git clone https://github.com/learric/Angular.Rails</tt>
+<tt>mv Angular.Rails _YOUR-APP-NAME_</tt>
+<tt>cd YOUR-APP-NAME</tt>
+<tt>rails s</tt>
 
-* System dependencies
+Then open a web browser to [http://localhost:3000/](http://localhost:3000/). If there is a form field inside of a green box, begin entering your name. If 'Hello, YOUR-NAME' appears in green, _CONGRATS!_, everything downloaded correctly.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Next, open app/assets/javascripts/home.coffee, app/views/index.html.erb, and config/application.rb and change **_AppName_** to whatever your app is named. Try [http://localhost:3000/](http://localhost:3000/) again to make sure the changes worked.

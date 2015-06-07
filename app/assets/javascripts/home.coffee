@@ -1,1 +1,1 @@
-todoList = angular.module('todoList', [])
+AppName = angular.module('AppName', [])
