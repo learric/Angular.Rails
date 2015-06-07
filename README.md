@@ -10,9 +10,9 @@ Barebones Rails application with AngularJS built into the Asset Pipeline
 ```
 git clone https://github.com/learric/Angular.Rails
 
-mv Angular.Rails _YOUR-APP-NAME_
+mv Angular.Rails YOUR_APP_NAME
 
-cd YOUR-APP-NAME
+cd YOUR_APP_NAME
 
 rails s
 ```
